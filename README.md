@@ -8,7 +8,7 @@ OwnBrand is a modern business website designed to help brands establish a strong
 
 The website is built with modern web technologies to ensure high performance, scalability, and accessibility across desktop and mobile devices.
 
-**Live Website:** najma-brand.netlify.app
+
 
 ---
 
